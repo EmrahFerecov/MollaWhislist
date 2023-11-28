@@ -1,0 +1,22 @@
+.details{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.detailsImage{
+    width: 450px;
+    height: 500px;
+    margin-top: 30px;
+}
+
+.detailsCom{
+    background-color: var(--bg-color-1);
+    width: 25%;
+    height: 450px;
+    margin-top: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: var(--bg-color-2);
+}
